@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="vessel-vessel_particulars-send.html">Send</a></li>
-                                    <li><a href="#">Approve</a></li>
+                                    <li><a href="vessel-vessel_particulars-approve.html">Approve</a></li>
                                     <li><a href="vessel-vessel_particulars-download.html">Download</a></li>
                                     <li><a href="#">Check</a></li>
                                 </ul>
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Vessel Profiles </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Attachment</a></li>
+                                    <li><a href="vessel-vessel_profiles-attachment.html">Attachment</a></li>
                                     <li><a href="#">Send</a></li>
                                     <li><a href="#">Receive</a></li>
                                     <li><a href="vessel-vessel_profiles-check.html">Check</a></li>
@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Tugboat Mgt </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">TugBoat Job Order</a></li>
+                                    <li><a href="vessel-tugboat_management-tugboat_job_order.html">TugBoat Job Order</a></li>
                                     <li><a href="#">Assign Officer</a></li> 
                                 </ul>
                             </li> 
