@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Configuration</a></li>
-                                    <li><a href="vessel_berth_application-send.html">Send</a></li>
+                                    <li><a href="vessel-berth_application-send.html">Send</a></li>
                                     <li><a href="#">Approve</a></li> 
                                 </ul>
                             </li> 
