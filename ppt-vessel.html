@@ -56,25 +56,13 @@
 
         <script>  
             $(document).ready(function() {  
-
-                $('.sidebar-nav .sidebar-item:nth-child(2)').addClass('show');
-                $('.sidebar-nav .sidebar-item:nth-child(2) > .sup-menu > ul > li:nth-child(2)').addClass('active');
-                $('.sidebar-nav .sidebar-item:nth-child(2) > .sup-menu > ul > li:nth-child(2) ul li:nth-child(3)').addClass('active');
+ 
  
 
                 $('.select2x').select2();   
                 $('.item-sup').click(function () {
                     $('.item-sup').removeClass("show");  
-                    $(this).addClass("show");     
-
-                    // var element = $('.sidebar-item.item-sup'); 
-                    // if (element.hasClass('show')) { 
-                    // }
-                    // else {  
-                    // } 
-                    // $('#myMenu li').click(function() {
-                    //     var NumOd = $(this).index() + 1;   
-                    // });  
+                    $(this).addClass("show");      
                 });   
  
                 $('.item-sup ul li').click(function () {

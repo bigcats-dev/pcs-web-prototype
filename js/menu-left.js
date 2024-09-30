@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function () {
                     </a>
                     <div class="sup-menu">
                         <ul>
-                            <li><a href="ppt-vessel.html" class="text-black">PPT Vessel</a></li>
                             <li> 
                                 <span>Service Route </span>
                                 <i class="fas fa-angle-down"></i>
@@ -826,6 +825,13 @@ document.addEventListener('DOMContentLoaded', function () {
                         </ul>
                     </div>
                 </li>  
+                <li class="sidebar-item">
+                    <a class="sidebar-link" href="ppt-vessel.html">
+                        <img src="img/icon-menu/12.png" alt="icon"> 
+                        <span class="align-middle">PPT Vessel </span> 
+                    </a> 
+                </li>     
+                 
             </ul>  
         </div>
     `;
