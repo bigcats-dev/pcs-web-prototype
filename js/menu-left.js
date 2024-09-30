@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <ul>
                                     <li><a href="#">Send</a></li>
                                     <li><a href="#">Approve</a></li>
-                                    <li><a href="#">Download</a></li>
+                                    <li><a href="vessel-vessel_particulars-download.html">Download</a></li>
                                     <li><a href="#">Check</a></li>
                                 </ul>
                             </li> 
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Attachment</a></li>
                                     <li><a href="#">Send</a></li>
                                     <li><a href="#">Receive</a></li>
-                                    <li><a href="#">Check</a></li>
+                                    <li><a href="vessel-vessel_profiles-check.html">Check</a></li>
                                 </ul>
                             </li> 
                             <li>
