@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     </a>
                     <div class="sup-menu">
                         <ul>
+                            <li><a href="ppt-vessel.html" class="text-black">PPT Vessel</a></li>
                             <li> 
                                 <span>Service Route </span>
                                 <i class="fas fa-angle-down"></i>
