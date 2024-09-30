@@ -616,7 +616,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Vessel</span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Equipment Tracking By Vessel</a></li>
+                                    <li><a href="report-vessel-equipment_tracking_by_vessel.html">Equipment Tracking By Vessel</a></li>
                                     <li><a href="#">Vessel 01-01</a></li>
                                     <li><a href="#">Vessel 01-02</a></li>
                                     <li><a href="#">Vessel 01-03</a></li>
