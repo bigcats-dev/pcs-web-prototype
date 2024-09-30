@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Vessel Particulars </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="_vessel-vessel_particulars-send.html">Send</a></li>
+                                    <li><a href="vessel-vessel_particulars-send.html">Send</a></li>
                                     <li><a href="#">Approve</a></li>
                                     <li><a href="vessel-vessel_particulars-download.html">Download</a></li>
                                     <li><a href="#">Check</a></li>
