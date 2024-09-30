@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Vessel Shifting</a></li>
                                     <li><a href="#">DG Handling</a></li>
                                     <li><a href="vesse-marine_department-pilotage.html">Pilotage</a></li>
-                                    <li><a href="#">Inquiries Status</a></li>
+                                    <li><a href="vessel-marine_department-inquiries_status.html">Inquiries Status</a></li>
                                 </ul>
                             </li> 
                             <li>
@@ -102,14 +102,14 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Vessel Berth Plan </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Berth Plan</a></li> 
+                                    <li><a href="vessel-vessel_berth_plan-vessel_berth_plan.html">Berth Plan</a></li> 
                                 </ul>
                             </li> 
                             <li>
                                 <span>Vessel Port Time </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Entry Port Time</a></li>
+                                    <li><a href="vessel-vessel_port_time-entry_port_time.html">Entry Port Time</a></li>
                                     <li><a href="#">Check Port Time</a></li> 
                                 </ul>
                             </li> 
@@ -328,7 +328,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>DG Management</span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">DG Notify</a></li>
+                                    <li><a href="container&cargo-dg_management-dg_notify.html">DG Notify</a></li>
                                     <li><a href="#">DG Receive</a></li>
                                     <li><a href="#">Import DG Info</a></li>
                                     <li><a href="#">DG Approve IM</a></li>
