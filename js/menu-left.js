@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Vessel Registration</a></li>
-                                    <li><a href="#">Arrival & Departure</a></li>
+                                    <li><a href="vessel-marine_department-arrival_and_departure.html">Arrival & Departure</a></li>
                                     <li><a href="#">Berth Outside PAT</a></li>
                                     <li><a href="#">Vessel Shifting</a></li>
                                     <li><a href="#">DG Handling</a></li>
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Vessel Schedule </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Create</a></li>
+                                    <li><a href="vessel-vessel_schedule-create.html">Create</a></li>
                                     <li><a href="vessel-vessel_schedule-vessel_schedule_(vsed_edi).html">Vessel Schedule (VSED EDI)</a></li> 
                                 </ul>
                             </li> 
