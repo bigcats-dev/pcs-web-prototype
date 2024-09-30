@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Create</a></li>
-                                    <li><a href="#">Vessel Schedule (VSED EDI)</a></li> 
+                                    <li><a href="vessel-vessel_schedule-vessel_schedule_(vsed_edi).html">Vessel Schedule (VSED EDI)</a></li> 
                                 </ul>
                             </li> 
                             <li>
