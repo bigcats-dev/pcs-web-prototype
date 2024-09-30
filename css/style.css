@@ -1016,15 +1016,20 @@ transition: .33s all ease-out;
   cursor: pointer;
   top: 20px;
 }
+main.content .container-fluid{
+  position: relative;
+}
 .iframex{
-  min-height: 80vh;
+  min-height: calc(100vh - 80px);
   width: 100%;
-  transform: scale(1);
+  left: -40px;
+  position: absolute;
+  transform: scale(.92);
 } 
 .sidebar-nav .sidebar-item ul li ul li.active{
   background-color: var(--bg-success);
 }
 .sidebar-nav .sidebar-item ul li ul li.active a{
   color: var(--main) !important;
-  font-weight: bold;
+  font-weight: bold; 
 }
