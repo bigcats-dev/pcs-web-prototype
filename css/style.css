@@ -1033,9 +1033,7 @@ main.content .container-fluid{
 .sidebar-nav .sidebar-item ul li ul li.active a{
   color: var(--main) !important;
   font-weight: bold; 
-}
-#page-container{ 
-}
+} 
 .iframex2{
   min-height: calc(100vh - 80px);  
   /* top: 220px; */
