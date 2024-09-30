@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Berth Outside PAT</a></li>
                                     <li><a href="#">Vessel Shifting</a></li>
                                     <li><a href="#">DG Handling</a></li>
-                                    <li><a href="#">Pilotage</a></li>
+                                    <li><a href="vesse-marine_department-pilotage.html">Pilotage</a></li>
                                     <li><a href="#">Inquiries Status</a></li>
                                 </ul>
                             </li> 
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Configuration</a></li>
-                                    <li><a href="#">Send</a></li>
+                                    <li><a href="vessel_berth_application-send.html">Send</a></li>
                                     <li><a href="#">Approve</a></li> 
                                 </ul>
                             </li> 
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Service Application </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Configuration</a></li>
+                                    <li><a href="vessel-service_application-configuration.html">Configuration</a></li>
                                     <li><a href="#">Send</a></li>
                                     <li><a href="#">Approve</a></li> 
                                 </ul>
