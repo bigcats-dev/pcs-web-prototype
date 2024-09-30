@@ -538,7 +538,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Vessel Movement</a></li>
-                                    <li><a href="#">Pilot Tracking</a></li> 
+                                    <li><a href="tracking-vessel-pilot_tracking.html">Pilot Tracking</a></li> 
                                 </ul>
                             </li>  
                         </ul>
