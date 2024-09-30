@@ -1020,11 +1020,12 @@ main.content .container-fluid{
   position: relative;
 }
 .iframex{
-  min-height: calc(100vh - 80px);
-  width: 100%;
+  min-height: calc(100vh - 80px); 
   left: -40px;
   position: absolute;
-  transform: scale(.92);
+  transform: scale(.92); 
+  overflow:hidden;
+  width:110%
 } 
 .sidebar-nav .sidebar-item ul li ul li.active{
   background-color: var(--bg-success);

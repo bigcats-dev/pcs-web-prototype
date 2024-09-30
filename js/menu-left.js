@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <ul>
                                     <li><a href="#">Send</a></li>
                                     <li><a href="#">Approve</a></li>
-                                    <li><a href="#">Download</a></li>
+                                    <li><a href="vessel-vessel_particulars-download.html">Download</a></li>
                                     <li><a href="#">Check</a></li>
                                 </ul>
                             </li> 
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Attachment</a></li>
                                     <li><a href="#">Send</a></li>
                                     <li><a href="#">Receive</a></li>
-                                    <li><a href="#">Check</a></li>
+                                    <li><a href="vessel-vessel_profiles-check.html">Check</a></li>
                                 </ul>
                             </li> 
                             <li>
@@ -538,7 +538,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Vessel Movement</a></li>
-                                    <li><a href="#">Pilot Tracking</a></li> 
+                                    <li><a href="tracking-vessel-pilot_tracking.html">Pilot Tracking</a></li> 
                                 </ul>
                             </li>  
                         </ul>
