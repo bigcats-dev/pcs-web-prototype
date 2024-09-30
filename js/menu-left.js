@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Berth Outside PAT</a></li>
                                     <li><a href="#">Vessel Shifting</a></li>
                                     <li><a href="#">DG Handling</a></li>
-                                    <li><a href="vesse-marine_department-pilotage.html">Pilotage</a></li>
+                                    <li><a href="vessel-marine_department-pilotage.html">Pilotage</a></li>
                                     <li><a href="vessel-marine_department-inquiries_status.html">Inquiries Status</a></li>
                                 </ul>
                             </li> 
