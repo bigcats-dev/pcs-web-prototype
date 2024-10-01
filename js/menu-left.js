@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="vessel-vessel_profiles-attachment.html">Attachment</a></li>
-                                    <li><a href="#">Send</a></li>
+                                    <li><a href="vessel-vessel_profiles-send.html">Send</a></li>
                                     <li><a href="#">Receive</a></li>
                                     <li><a href="vessel-vessel_profiles-check.html">Check</a></li>
                                 </ul>

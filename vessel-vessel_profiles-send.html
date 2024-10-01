@@ -34,14 +34,12 @@
                 </nav>
                 <main class="content">
                     <div class="container-fluid p-0">
-                        <iframe src="Presentation2.html" allowfullscreen class="iframex2" frameborder="0"></iframe>
-
-                        <!-- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSISilpjXU1kYNQDmJbPelR1WZ25CjJYtoJ0MvS0faqBa4Frh-_z7S5YcUKn7MyWKIQXp4yPG9qyopC/embed?start=false&loop=false&delayms=30000" frameborder="0" class="iframex2" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="false"></iframe> -->
-                        
+                        <iframe src="_vessel-vessel_profiles-send.html" frameborder="0" class="iframex"></iframe>
                     </div>
                 </main>
             </div>
         </div>
+
         
 
         <script src="js/jquery-3.5.1.min.js"></script>   
@@ -58,21 +56,35 @@
 
 
         <script>  
-            $(document).ready(function() {   
+            $(document).ready(function() { 
+
+ 
+                $('.sidebar-nav .sidebar-item:nth-child(2)').addClass('show');
+                $('.sidebar-nav .sidebar-item:nth-child(2) > .sup-menu > ul > li:nth-child(3)').addClass('active');
+                $('.sidebar-nav .sidebar-item:nth-child(2) > .sup-menu > ul > li:nth-child(3) ul li:nth-child(2)').addClass('active');
+
                 $('.select2x').select2();   
                 $('.item-sup').click(function () {
                     $('.item-sup').removeClass("show");  
-                    $(this).addClass("show");      
+                    $(this).addClass("show");     
+
+                    // var element = $('.sidebar-item.item-sup'); 
+                    // if (element.hasClass('show')) { 
+                    // }
+                    // else {  
+                    // } 
+                    // $('#myMenu li').click(function() {
+                    //     var NumOd = $(this).index() + 1;   
+                    // });  
                 });   
  
                 $('.item-sup ul li').click(function () {
                     $(this).toggleClass("active");   
                 });   
-            });    
-            
+            });   
+            $(".tb-num td:nth-child(1)").each(function(i,v) {$(v).text(i + 1);});
         </script> 
         
-            
        
             
  
