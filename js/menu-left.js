@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <ul>
                                     <li><a href="vessel-service_application-configuration.html">Configuration</a></li>
                                     <li><a href="#">Send</a></li>
-                                    <li><a href="#">Approve</a></li> 
+                                    <li><a href="vessel-service_application-approve.html">Approve</a></li> 
                                 </ul>
                             </li> 
                             <li>
