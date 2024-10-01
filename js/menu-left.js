@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="vessel-vessel_port_time-entry_port_time.html">Entry Port Time</a></li>
-                                    <li><a href="#">Check Port Time</a></li> 
+                                    <li><a href="vessel-vessel_port_time-check_port_time.html">Check Port Time</a></li> 
                                 </ul>
                             </li> 
                             <li>
