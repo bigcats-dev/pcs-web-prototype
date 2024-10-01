@@ -330,8 +330,8 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <ul>
                                     <li><a href="container&cargo-dg_management-dg_notify.html">DG Notify</a></li>
                                     <li><a href="#">DG Receive</a></li>
-                                    <li><a href="#">Import DG Info</a></li>
-                                    <li><a href="#">DG Approve IM</a></li>
+                                    <li><a href="container&cargo-dg_management-import-dg-info.html">Import DG Info</a></li>
+                                    <li><a href="container&cargo-dg_management-dg-approve-im.html">DG Approve IM</a></li>
                                     <li><a href="#">DG Release IM</a></li>
                                     <li><a href="#">Export DG Info</a></li>
                                     <li><a href="#">DG Approve EX</a></li>
