@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="vessel-service_application-configuration.html">Configuration</a></li>
-                                    <li><a href="#">Send</a></li>
+                                    <li><a href="vessel-service_application-send.html">Send</a></li>
                                     <li><a href="vessel-service_application-approve.html">Approve</a></li> 
                                 </ul>
                             </li> 
@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Approve</a></li>
                                 </ul>
                             </li>  
-                            <li> 
+                            <li> vessel-service_application-send
                                 <span>Booking Management</span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
