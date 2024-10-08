@@ -829,7 +829,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <li class="sidebar-item item-sup">
                     <a class="sidebar-link" href="#"> 
                         <img src="img/icon-menu/12.png" alt="icon"> 
-                        <span class="align-middle">presentation</span>
+                        <span class="align-middle">Presentation</span>
                         <i class="fas fa-angle-down"></i>
                     </a>
                     <div class="sup-menu">
