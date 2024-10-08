@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>UN/EDIFACT </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Send</a></li>
+                                    <li><a href="vessel-un_edifact-send.html">Send</a></li>
                                     <li><a href="#">Receive</a></li> 
                                 </ul>
                             </li> 
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>e-Manifest </span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">e-Manifest</a></li> 
+                                    <li><a href="vessel-eManifest-eManifest.html">e-Manifest</a></li> 
                                 </ul>
                             </li> 
                         </ul>
@@ -357,7 +357,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <span>Discharge & Loading</span>
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
-                                    <li><a href="#">Container</a></li>
+                                    <li><a href="container_cargo-discharge_loading-container.html">Container</a></li>
                                     <li><a href="#">Cargo</a></li>
                                     <li><a href="#">RORO</a></li>
                                 </ul>
@@ -367,7 +367,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Summary (Discharge / Loading)</a></li>
-                                    <li><a href="#">Container Discharge</a></li>
+                                    <li><a href="container_cargo-container_movement-container_discharge.html">Container Discharge</a></li>
                                     <li><a href="#">Cargo Discharge</a></li>
                                     <li><a href="#">Container Loading</a></li>
                                     <li><a href="#">Cargo Loading</a></li>
@@ -381,7 +381,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                     <li><a href="#">Cargo Tracking</a></li>
                                     <li><a href="#">Entry Goods Demage Import</a></li>
                                     <li><a href="#">Export Warehouse Release</a></li>
-                                    <li><a href="#">Container Terminal Release</a></li>
+                                    <li><a href="container_cargo-warehouse_icd-container_terminal_release.html">Container Terminal Release</a></li>
                                     <li><a href="#">Cargo Terminal Release</a></li>
                                 </ul>
                             </li>  
