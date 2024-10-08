@@ -378,7 +378,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                 <i class="fas fa-angle-down"></i>
                                 <ul>
                                     <li><a href="#">Import Warehouse Release</a></li>
-                                    <li><a href="#">Cargo Tracking</a></li>
+                                    <li><a href="container_cargo-warehouse_icd-cargo_tracking.html">Cargo Tracking</a></li>
                                     <li><a href="#">Entry Goods Demage Import</a></li>
                                     <li><a href="#">Export Warehouse Release</a></li>
                                     <li><a href="container_cargo-warehouse_icd-container_terminal_release.html">Container Terminal Release</a></li>
@@ -831,6 +831,18 @@ document.addEventListener('DOMContentLoaded', function () {
                         <span class="align-middle">PPT Vessel </span> 
                     </a> 
                 </li>     
+                <li class="sidebar-item">
+                    <a class="sidebar-link" href="ppt-cargo-import.html">
+                        <img src="img/icon-menu/12.png" alt="icon"> 
+                        <span class="align-middle">PPT Container & Cargo (Import)</span> 
+                    </a> 
+                </li>    
+                <li class="sidebar-item">
+                    <a class="sidebar-link" href="ppt-cargo-export.html">
+                        <img src="img/icon-menu/12.png" alt="icon"> 
+                        <span class="align-middle">PPT Container & Cargo (Export) </span> 
+                    </a> 
+                </li>    
                  
             </ul>  
         </div>
