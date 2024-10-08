@@ -59,7 +59,13 @@
 
 
         <script>  
+   
             $(document).ready(function() {   
+                $('.sidebar-nav .sidebar-item:nth-child(13)').addClass('show');
+                $('.sidebar-nav .sidebar-item:nth-child(13) > .sup-menu > ul > li:nth-child(1)').addClass('active');
+                $('.sidebar-nav .sidebar-item:nth-child(13) > .sup-menu > ul > li:nth-child(1)').css('font-weight:bold');
+
+                
                 $('.select2x').select2();   
                 $('.item-sup').click(function () {
                     $('.item-sup').removeClass("show");  

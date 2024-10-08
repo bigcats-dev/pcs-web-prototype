@@ -824,26 +824,22 @@ document.addEventListener('DOMContentLoaded', function () {
                             </li>  
                         </ul>
                     </div>
-                </li>  
-                <li class="sidebar-item">
-                    <a class="sidebar-link" href="ppt-vessel.html">
-                        <img src="img/icon-menu/12.png" alt="icon"> 
-                        <span class="align-middle">PPT Vessel </span> 
-                    </a> 
-                </li>     
-                <li class="sidebar-item">
-                    <a class="sidebar-link" href="ppt-cargo-import.html">
-                        <img src="img/icon-menu/12.png" alt="icon"> 
-                        <span class="align-middle">PPT Container & Cargo (Import)</span> 
-                    </a> 
-                </li>    
-                <li class="sidebar-item">
-                    <a class="sidebar-link" href="ppt-cargo-export.html">
-                        <img src="img/icon-menu/12.png" alt="icon"> 
-                        <span class="align-middle">PPT Container & Cargo (Export) </span> 
-                    </a> 
-                </li>    
+                </li>   
                  
+                <li class="sidebar-item item-sup">
+                    <a class="sidebar-link" href="#"> 
+                        <img src="img/icon-menu/12.png" alt="icon"> 
+                        <span class="align-middle">presentation</span>
+                        <i class="fas fa-angle-down"></i>
+                    </a>
+                    <div class="sup-menu">
+                        <ul> 
+                            <li><a href="ppt-vessel.html" class="text-black">Vessel</a></li> 
+                            <li><a href="ppt-cargo-import.html" class="text-black">Container & Cargo (Import)</a></li> 
+                            <li><a href="ppt-cargo-export.html" class="text-black">Container & Cargo (Export)</a></li> 
+                        </ul>
+                    </div>
+                </li>  
             </ul>  
         </div>
     `;
